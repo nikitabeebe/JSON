@@ -1,0 +1,136 @@
+{
+  "Title": "102 CDRA LiOH Canister Swapout",
+  "Objective": "OBJECTIVE:To replace the Lithium Hydroxide (LiOH) Canister Assembly on the Carbon Dioxide Removal Assembly (CDRA).",
+  "Equipment": "EQUIPMENT:LiOH canister (will be gathered during the procedure). Flashlight. Shop vacuum. Portable anemometer PPE safety glasses PPE Kobalt work gloves PPE static wrist tether Orange caution cone  2x",
+  "NOTE": "The CDRA requires the use of the Fan Dampener Assembly (FDA) for peroper operation. The assembly prevents particulate mtter from interfering with the infared sensor and damaging the sampling pump. If the filter becomes clogged, the assembly must be replaced.",
+  "Steps": [
+    {
+    "StepTitle": "1. DEACTIVATE MAIN CABIN FANS (IF ACTIVATED)",
+    "StepLocation": "L1F Subf",
+    "StepPageNumber": "Pages 1-2",
+    "StepString": "1. DEACTIVATE MAIN CABIN FANS (IF ACTIVATED). 1.1 Don PPE gloves and safety glasses. 1.2 Remove floor panel 1F and temp stow. Figure 1: Cabin Fan Power Switches. 1.3 On Main Cabin Fan, pull switch out and push toward “OFF” to deactivate fan (see Figure 1). Verify fan has audibly shut off. 1.4 On Secondary Cabin Fan, pull switch out and push toward “OFF” to deactivate fan (see Figure 1). Verify fan has audibly shut off. 1.5 Place orange caution cone next to open work area L1F subfloor to warn other crewmembers.",
+    "SubSteps": [
+      "1.1 Don PPE gloves and safety glasses.",
+      "1.2 Remove floor panel 1F and temp stow. Figure 1: Cabin Fan Power Switches",
+      "1.3 On Main Cabin Fan, pull switch out and push toward “OFF” to deactivate fan (see Figure 1). Verify fan has audibly shut off.",
+      "1.4 On Secondary Cabin Fan, pull switch out and push toward “OFF” to deactivate fan (see Figure 1).Verify fan has audibly shut off.",
+      "1.5 Place orange caution cone next to open work area L1F subfloor to warn other crewmembers"
+    ]
+  },
+  {
+    "StepTitle": "2. DEACTIVATE AUX CABIN FANS (IF ACTIVATED)",
+    "StepLocation": "GMWS",
+    "StepPageNumber": "Page 2",
+    "StepString": "2. DEACTIVATE AUX CABIN FANS (IF ACTIVATED) Figure 2: Trace Contaminant Control Subassembly (TCCS) Panel. 2.1 On TCCS Panel, check power switches of Aux Cabin Fan 1 and Aux Cabin Fan 2 are “OFF” (see Figure 2). 2.1.1 Move stowage as necessary in order to access the TCCS Panel. 2.1.2 If power switches of Aux Cabin Fan 1 and Aux Cabin Fan 2 are NOT “OFF”, flip each switch to “OFF”.",
+    "SubSteps": 
+    [
+      {
+        "SubStepText": "2.1 On TCCS Panel, check power switches of Aux Cabin Fan 1 and Aux Cabin Fan 2 are “OFF” (see Figure 2).",
+        "SubSubSteps": [
+        "2.1.1 Move stowage as necessary in order to access the TCCS Panel.",
+        "2.1.2 If power switches of Aux Cabin Fan 1 and Aux Cabin Fan 2 are NOT “OFF”, flip each switch to “OFF”."
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "StepTitle": "3. DEACTIVATE FAN DAMPENER ASSEMBLY (FDA) PUMP (IF ACTIVATED)",
+    "StepLocation": "L1D Subf",
+    "StepPageNumber": "Pages 2-3",
+    "StepString": "3. DEACTIVATE FAN DAMPENER ASSEMBLY (FDA) PUMP (IF ACTIVATED). 3.1 Remove floor panel 1D and temp stow. 3.2 Don static wrist tether and attach to any unpainted metallic surface. Figure 3: Fan Dampener Assembly (FDA) Pump. 3.3 Turn FDA Pump Power Dial counterclockwise to “OFF” (see Figure 3). Listen for a click. NOTE: Read step 3.5 before executing 3.4. Step 3.5 is time dependent and can be missed if not actively watching the Dampener Dial. 3.4 Flip Air Flow Dampener switch to “Closed”. 3.5 Confirm Dampener Dial Indicator (metal Philips head screw with spring attached) rotates to fully closed (see Figure 3). 3.6 Detach static wrist tether. 3.7 Place orange caution cone next to open work area L1D subfloor to warn other crewmembers.",
+    "SubSteps": [
+      "3.1 Remove floor panel 1D and temp stow.",
+      "3.2 Don static wrist tether and attach to any unpainted metallic surface. Figure 3: Fan Dampener Assembly (FDA) Pump",
+      "3.3 Turn FDA Pump Power Dial counterclockwise to “OFF” (see 3). Listen for a click. NOTE: Read step  3.5 before executing  3.4. Step  3.5 is time dependent and can be missed if not actively watching the Dampener Dial.",
+      "3.4 Flip Air Flow Dampener switch to “Closed”.",
+      "3.5 Confirm Dampener Dial Indicator (metal Philips head screw with spring attached) rotates to fully closed (see Figure 3).",
+      "3.6 Detach static wrist tether.",
+      "3.7 Place orange caution cone next to open work area L1D subfloor to warn other crewmembers"
+    ]
+  },
+  {
+    "StepTitle": "4. REMOVE USED LiOH CANISTER",
+    "StepLocation": "L1C Subf",
+    "StepPageNumber": "Page 4",
+    "StepString": "4. REMOVE USED LiOH CANISTER Figure 4: LiOH Canister Assembly. 4.1 Remove LiOH Canister Cover and temp stow (see Figure 4). 4.2 Don static wrist tether and attach to unpainted metallic surface. 4.3 Remove LiOH Canister from filter assembly (see Figure 4). 4.4 Inspect filter assembly with flashlight for debris and clean as necessary with shop vacuum. 4.5 Gather portable anemometer and take reading in m/s of filter assembly air flow at the LiOH canister entrance. Hold anemometer within an inch of the LiOH canister entrance for 10 seconds to gather an accurate reading and report the highest reading to MCC. 4.6 Confirm with MCC that the filter assembly flow at the LiOH canister entrance is within expected range. 4.7 On MCC GO Notify MCC of used LiOH Canister S/N. 4.8 Doff static wrist tether. 4.9 Label used LiOH Canister with sticky note and stow in consumables drawer in ALC L01.",
+    "SubSteps": [
+      "4.1 Remove LiOH Canister Cover and temp stow (see Figure 4: LiOH Canister Assembly).",
+      "4.2 Don static wrist tether and attach to unpainted metallic surface.",
+      "4.3 Remove LiOH Canister from filter assembly (see Figure 4).",
+      "4.4 Inspect filter assembly with flashlight for debris and clean as necessary with shop nvacuum.",
+      "4.5 Gather portable anemometer and take reading in m/s of filter assembly air flow at the LiOH canister entrance. Hold anemometer within an inch of the LiOH canister entrance for 10 seconds to gather an accurate reading and report the highest reading to MCC.",
+      "4.6 Confirm with MCC that the filter assembly flow at the LiOH canister entrance is within expected range.",
+      "4.7 On MCC GO, Notify MCC of used LiOH Canister S/N.",
+      "4.8 Doff static wrist tether.",
+      "4.9 Label used LiOH Canister with sticky note and stow in consumables drawer in ALC L01"
+    ]
+  },
+  {
+    "StepTitle": "5. RETRIEVE CLEAN LiOH CANISTER",
+    "StepLocation": "ALC",
+    "StepPageNumber": "Page 5",
+    "StepString": "5. RETRIEVE CLEAN LiOH CANISTER Figure 5: LiOH Canister. 5.1 Remove clean LiOH Canister from ALC L01 (see Figure 5). 5.2 Inspect clean LiOH Canister with flashlight for debris and clean as necessary.",
+    "SubSteps": [
+      "5.1 Remove clean LiOH Canister from ALC L01 (see Figure 5: LiOH Canister).",
+      "5.2 Inspect clean LiOH Canister with flashlight for debris and clean as necessary"
+    ]
+  },
+  {
+    "StepTitle": "6. INSERT CLEAN LiOH CANISTER",
+    "StepLocation": "L1C Subf",
+    "StepPageNumber": "Page 5",
+    "StepString": "6. INSERT CLEAN LiOH CANISTER 6.1 Don static wrist tether and attach to unpainted surface. 6.2 Inspect interior of hose and filter assembly with flashlight for debris and clean as necessary with shop vacuum. 6.3 Insert clean LiOH Canister into filter assembly. 6.4 Detach static wrist tether from unpainted surface. 6.5 Notify MCC of clean LiOH Canister S/N. 6.6 On MCC GO, Replace LiOH Canister cover and safely latch.",
+    "SubSteps": [
+      "6.1 Don static wrist tether and attach to unpainted surface.",
+      "6.2 Inspect interior of hose and filter assembly with flashlight for debris and clean as necessary with shop vacuum.",
+      "6.3 Insert clean LiOH Canister into filter assembly.",
+      "6.4 Detach static wrist tether from unpainted surface.",
+      "6.5 Notify MCC of clean LiOH Canister S/N.",
+      "6.6 On MCC GO, Replace LiOH Canister cover and safely latch"
+    ]
+  },
+  {
+    "StepTitle": "7. ACTIVATE FDA PUMP",
+    "StepLocation": "L1D Subf",
+    "StepPageNumber": "Pages 5-6",
+    "StepString": "7.  ACTIVATE FDA PUMP. NOTE: FDA Pump Power Dial can be set from Low to High. When on, always leave dial set to High. 7.1 Attach static wrist tether to any unpainted surface. 7.2 Flip Air Flow Dampener switch to “OPEN” (see Figure 3). 7.2.1 Check that the Dampener Dial Indicator (metal Philips head screw with spring attached) rotates to fully open (see Figure 3). 7.3 Turn FDA Pump Power Dial to “ON” by rotating clockwise. After hearing click, stop rotation. Verify dial is set to “HIGH” position (see Figure 3). 7.4 Detach static wrist tether.",
+    "SubSteps": [
+      "(NOTE: FDA Pump Power Dial can be set from Low to High. When on, always leave dial set to High.) 7.1 Attach static wrist tether to any unpainted surface.",
+      {
+        "SubStepText": "7.2 Flip Air Flow Dampener switch to \"OPEN\" (see Figure 3).",
+        "SubSubSteps": 
+        [
+          "7.2.1 Check that the Dampener Dial Indicator (metal Philips head screw with spring attached) rotates to fully open (see Figure 3)."
+        ]
+      },
+      "7.3 Turn FDA Pump Power Dial to “ON” by rotating clockwise. After hearing click, stop rotation. Verify dial is set to “HIGH” position (see Figure 3).",
+      "7.4 Detach static wrist tether"
+    ]
+  },
+  {
+    "StepTitle": "8. ACTIVATE MAIN CABIN FANS",
+    "StepLocation": "L1F Subf",
+    "StepPageNumber": "Page 6",
+    "StepString": "8. ACTIVATE MAIN CABIN FANS. 8.1 On Main Cabin Fan, pull switch out and push toward “ON” to activate fan (see Figure 1). Verify fan has audibly turned on. 8.2 On Secondary Cabin Fan, pull switch out and push toward “ON” to activate fan (see Figure 1).Verify fan has audibly turned on. 8.3 Replace floor panel 1F and safely latch.",
+    "SubSteps": [
+      "8.1 On Main Cabin Fan, pull switch out and push toward “ON” to activate fan (see Figure 1). Verify fan has audibly turned on.",
+      "8.2 On Secondary Cabin Fan, pull switch out and push toward “ON” to activate fan (see Figure 1).Verify fan has audibly turned on. ",
+      "8.3 Replace floor panel 1F and safely latch"
+    ]
+  },
+  {
+    "StepTitle": "9. ECLSS VENT CHECK",
+    "StepLocation": "None",
+    "StepPageNumber": "Pages 6-7",
+    "StepString": "9. ECLSS VENT CHECK. Figure 6: Cabin Output Vent C/D, Figure 7: Cabin Output Vent D/E. 9.1 Gather portable anemometer and take readings in m/s of exhaust flow at cabin output vents C/D and D/E (Figures 6 and 7). Hold anemometer within an inch of the vent for 10 seconds to gather an accurate reading and report the highest reading to MCC. 9.2 Call MCC to confirm air flow is within expected range by reporting the flow. (Reading should be greater than 0.5 m/s.) 9.3 On MCC GO, relocate floor panel 1D and safely latch. 9.4 Doff PPE Kobalt work gloves, static wrist tether, and safety glasses. 9.5 Stow all equipment including orange caution cones",
+    "SubSteps": [
+      "9.1 Gather portable anemometer and take readings in m/s of exhaust flow at cabin output vents C/D and D/E (Figures 6: Cabin Output Vent C/D and 7: Cabin Output Vent D/E). Hold anemometer within an inch of the vent for 10 seconds to gather an accurate reading and report the highest reading to MCC.",
+      "9.2 Call MCC to confirm air flow is within expected range by reporting the flow. (Reading should be greater than 0.5 m/s.)",
+      "9.3 On MCC GO, relocate floor panel 1D and safely latch.",
+      "9.4 Doff PPE Kobalt work gloves, static wrist tether, and safety glasses.",
+      "9.5 Stow all equipment including orange caution cone."
+    ]
+  }
+  ]
+}
